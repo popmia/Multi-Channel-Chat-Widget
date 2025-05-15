@@ -1,9 +1,9 @@
 === Multi-Channel Chat Widget ===
-Contributors: Taylan Evrenler (COHOSTDR)  
+Contributors: taylanevrenler  
 Donate link: https://paypal.me/taylanevrenler  
 Tags: chat, whatsapp, multichannel, widget, email  
 Requires at least: 5.2  
-Tested up to: 6.8.1  
+Tested up to: 6.8  
 Requires PHP: 7.2  
 Stable tag: 2.4.0  
 License: GPLv2 or later  
