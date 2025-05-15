@@ -8,6 +8,7 @@ Requires PHP: 7.2
 Stable tag: 2.4.0  
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
+Plugin URI: https://github.com/popmia/Multi-Channel-Chat-Widget
 
 A floating chat widget for WhatsApp, email (Gmail, Outlook, Hotmail), and Facebook Messenger—customizable, mobile-friendly, and easy to use.
 
