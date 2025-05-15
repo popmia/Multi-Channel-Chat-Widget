@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Multi-Channel Chat Widget
- * Plugin URI:        https://cohostdr.com
+ * Plugin URI:       https://github.com/popmia/Multi-Channel-Chat-Widget
  * Description:       Adds a floating multichannel chat widget with WhatsApp, email, and Facebook.
  * Version:           2.4.0
  * Requires at least: 5.2
