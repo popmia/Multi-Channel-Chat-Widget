@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multi-Channel Chat Widget\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ChatGPT\n"
+"X-Domain: multi-channel-chat\n"
+
+#: multi-channel-chat.php:45
+msgid "Settings"
+msgstr ""
+
+#: multi-channel-chat.php:118
+msgid "Multi-Channel Chat Settings"
+msgstr ""
+
+#: multi-channel-chat.php:121
+msgid "Note:"
+msgstr ""
+
+#: multi-channel-chat.php:121
+msgid "No channels are currently enabled. The chat widget will not appear."
+msgstr ""
+
+#: multi-channel-chat.php:129
+msgid "Enable WhatsApp"
+msgstr ""
+
+#: multi-channel-chat.php:132
+msgid "WhatsApp Number"
+msgstr ""
+
+#: multi-channel-chat.php:135
+msgid "Greeting Message"
+msgstr ""
+
+#: multi-channel-chat.php:138
+msgid "Intro Message"
+msgstr ""
+
+#: multi-channel-chat.php:141
+msgid "Email Address (Gmail/Hotmail/Outlook)"
+msgstr ""
+
+#: multi-channel-chat.php:144
+msgid "Show Gmail (Desktop Only)"
+msgstr ""
+
+#: multi-channel-chat.php:147
+msgid "Show Hotmail (Desktop Only)"
+msgstr ""
+
+#: multi-channel-chat.php:150
+msgid "Show Outlook (Desktop Only)"
+msgstr ""
+
+#: multi-channel-chat.php:154
+msgid "Reason %d"
+msgstr ""
+
+#: multi-channel-chat.php:159
+msgid "Enable Facebook Messenger"
+msgstr ""
+
+#: multi-channel-chat.php:162
+msgid "Facebook Username"
+msgstr ""
+
+#: assets/js/script.js (localized via PHP wp_localize_script)
+msgid "Need help? Tap to message us!"
+msgstr ""
+
+msgid "Please enter both your name and phone number."
+msgstr ""
+
+msgid "Email address is not configured. Please update plugin settings."
+msgstr ""
+
+msgid "Inquiry from"
+msgstr ""
+
+msgid "General Inquiry"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "WhatsApp"
+msgstr ""
+
+msgid "Gmail"
+msgstr ""
+
+msgid "Hotmail"
+msgstr ""
+
+msgid "Outlook"
+msgstr ""
+
+msgid "Facebook Messenger"
+msgstr ""
