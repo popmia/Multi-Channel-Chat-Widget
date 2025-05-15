@@ -1,0 +1,6 @@
+/* Admin styles for Multi-Channel Chat Widget */
+.fb-warning,
+.email-warning {
+    color: red;
+    display: none;
+}
